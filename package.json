@@ -5,6 +5,8 @@
   "author": "Bruno Alves <contato@alvesbruno.com>",
   "license": "MIT",
   "devDependencies": {
-    "git-commit-msg-linter": "^2.4.4"
+    "@types/node": "^14.6.0",
+    "git-commit-msg-linter": "^2.4.4",
+    "typescript": "^4.0.2"
   }
 }
